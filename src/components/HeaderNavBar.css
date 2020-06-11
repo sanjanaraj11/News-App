@@ -1,0 +1,28 @@
+.searchBox{
+    width: 232px;
+  }
+
+  .bookmark{
+    color: white;
+    padding-right: 10px;
+  }
+
+  .toggleText{
+    color: white;
+    padding-right: 1%;
+  }
+
+  .toggleTextG{
+    color: white;
+    padding-left: 1%;
+  }
+  
+
+  .navBar{
+    background-color: rgb(165, 35, 148);
+    background-image: linear-gradient(to right, rgb(48, 29, 98), rgb(185, 111, 219));
+  }
+
+  .textBut{
+    color: white;
+  }
