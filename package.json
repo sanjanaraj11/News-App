@@ -10,7 +10,7 @@
     "bootstrap": "^4.4.1",
     "commentbox.io": "^2.0.0",
     "cors": "^2.8.5",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "glamor": "^2.20.40",
     "morgan": "^1.10.0",
     "node-fetch": "^2.6.0",
